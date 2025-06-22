@@ -4,7 +4,7 @@
     "name": "Ben & Jerry's Americone Dream",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg" ,
     "tags": [
       "Ben & Jerry's"
     ]
@@ -14,7 +14,7 @@
     "name": "Ben & Jerry's Butter Pecan",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -24,7 +24,7 @@
     "name": "Ben & Jerry's Cherry Garcia",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -34,7 +34,7 @@
     "name": "Ben & Jerry's Chocolate",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -44,7 +44,7 @@
     "name": "Ben & Jerry's Chocolate Chip Cookie Dough",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -54,7 +54,7 @@
     "name": "Ben & Jerry's Chocolate Fudge Brownie",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -64,7 +64,7 @@
     "name": "Ben & Jerry's Chocolate PB Chunk",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -74,7 +74,7 @@
     "name": "Ben & Jerry's Half Baked",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -84,7 +84,7 @@
     "name": "Ben & Jerry's Impretzively Fudged",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -94,7 +94,7 @@
     "name": "Ben & Jerry's Mango",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -104,7 +104,7 @@
     "name": "Ben & Jerry's Marshmallow Sky",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -114,7 +114,7 @@
     "name": "Ben & Jerry's Milk & Cookies",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -124,7 +124,7 @@
     "name": "Ben & Jerry's Mint Chocolate Chunk",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -134,7 +134,7 @@
     "name": "Ben & Jerry's New York Super Fudge Chunk",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -144,7 +144,7 @@
     "name": "Ben & Jerry's Phish Food",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -154,7 +154,7 @@
     "name": "Ben & Jerry's Salted Caramel Blondie",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -164,7 +164,7 @@
     "name": "Ben & Jerry's Strawberry",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -174,7 +174,7 @@
     "name": "Ben & Jerry's Strawberry Cheesecake",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -184,7 +184,7 @@
     "name": "Ben & Jerry's Sweet Cream & Cookies",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -194,7 +194,7 @@
     "name": "Ben & Jerry's The Tonight Dough",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -204,7 +204,7 @@
     "name": "Ben & Jerry's Triple Caramel Chunk",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -214,7 +214,7 @@
     "name": "Ben & Jerry's Vanilla",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -224,7 +224,7 @@
     "name": "Ben & Jerry's Americone Dream",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -234,7 +234,7 @@
     "name": "Ben & Jerry's Butter Pecan",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -244,7 +244,7 @@
     "name": "Ben & Jerry's Cherry Garcia",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -254,7 +254,7 @@
     "name": "Ben & Jerry's Chocolate",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -264,7 +264,7 @@
     "name": "Ben & Jerry's Chocolate Chip Cookie Dough",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -274,7 +274,7 @@
     "name": "Ben & Jerry's Chocolate Fudge Brownie",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -284,7 +284,7 @@
     "name": "Ben & Jerry's Chocolate PB Chunk",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -294,7 +294,7 @@
     "name": "Ben & Jerry's Chocolate Therapy",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -304,7 +304,7 @@
     "name": "Ben & Jerry's Chunky Monkey",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -314,7 +314,7 @@
     "name": "Ben & Jerry's Coffee, Coffee BuzzBuzzBuzz!",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -324,7 +324,7 @@
     "name": "Ben & Jerry's Dirt Cake",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -334,7 +334,7 @@
     "name": "Ben & Jerry's Dulce De-Lish!",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -344,7 +344,7 @@
     "name": "Ben & Jerry's Half Baked",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -354,7 +354,7 @@
     "name": "Ben & Jerry's Mango",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -364,7 +364,7 @@
     "name": "Ben & Jerry's Marshmallow Sky",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -374,7 +374,7 @@
     "name": "Ben & Jerry's Milk & Cookies",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -384,7 +384,7 @@
     "name": "Ben & Jerry's Mint Chocolate Chunk",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -394,7 +394,7 @@
     "name": "Ben & Jerry's New York Super Fudge Chunk",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -404,7 +404,7 @@
     "name": "Ben & Jerry's PB S\u2019more",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -414,7 +414,7 @@
     "name": "Ben & Jerry's Phish Food",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -424,7 +424,7 @@
     "name": "Ben & Jerry's Salted Caramel Blondie",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -434,7 +434,7 @@
     "name": "Ben & Jerry's Strawberry",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -444,7 +444,7 @@
     "name": "Ben & Jerry's Strawberry Cheesecake",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -454,7 +454,7 @@
     "name": "Ben & Jerry's Sweet Cream & Cookies",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -464,7 +464,7 @@
     "name": "Ben & Jerry's The Tonight Dough",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -474,7 +474,7 @@
     "name": "Ben & Jerry's Triple Caramel Chunk",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -484,7 +484,7 @@
     "name": "Ben & Jerry's Turtle Sundae",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -494,7 +494,7 @@
     "name": "Ben & Jerry's Vanilla",
     "category": "Tubs",
     "price": 6.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Ben & Jerry's"
     ]
@@ -504,7 +504,7 @@
     "name": "Talenti Sea Salt Caramel",
     "category": "Sorbet",
     "price": 5.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Talenti"
     ]
@@ -514,7 +514,7 @@
     "name": "Talenti Belgian Chocolate",
     "category": "Sorbet",
     "price": 5.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Talenti"
     ]
@@ -524,7 +524,7 @@
     "name": "Talenti Caribbean Coconut",
     "category": "Sorbet",
     "price": 5.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Talenti"
     ]
@@ -534,7 +534,7 @@
     "name": "Talenti Caramel Cookie Crunch",
     "category": "Sorbet",
     "price": 5.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Talenti"
     ]
@@ -544,7 +544,7 @@
     "name": "Talenti Pacific Coast Pistachio",
     "category": "Sorbet",
     "price": 5.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Talenti"
     ]
@@ -554,7 +554,7 @@
     "name": "Talenti Raspberry Sorbetto",
     "category": "Sorbet",
     "price": 5.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Talenti"
     ]
@@ -564,7 +564,7 @@
     "name": "Talenti Mango Sorbetto",
     "category": "Sorbet",
     "price": 5.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Talenti"
     ]
@@ -574,7 +574,7 @@
     "name": "Talenti Double Dark Chocolate",
     "category": "Sorbet",
     "price": 5.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Talenti"
     ]
@@ -584,7 +584,7 @@
     "name": "Talenti Vanilla Caramel Swirl",
     "category": "Sorbet",
     "price": 5.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Talenti"
     ]
@@ -594,7 +594,7 @@
     "name": "Talenti Alphonso Mango Sorbetto",
     "category": "Sorbet",
     "price": 5.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Talenti"
     ]
@@ -604,7 +604,7 @@
     "name": "Talenti Salted Caramel Truffle Gelato Layers",
     "category": "Gelato",
     "price": 5.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Talenti"
     ]
@@ -614,7 +614,7 @@
     "name": "Talenti Chocolate Chip Cookie Batter Gelato Layers",
     "category": "Gelato",
     "price": 5.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Talenti"
     ]
@@ -624,7 +624,7 @@
     "name": "Talenti Italian Tiramisu Gelato Layers",
     "category": "Gelato",
     "price": 5.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Talenti"
     ]
@@ -634,7 +634,7 @@
     "name": "Talenti Snickerdoodle Cookie Gelato Layers",
     "category": "Gelato",
     "price": 5.99,
-    "imageUrl": "/public/assets/images/all_ben.jpg",
+    "imageUrl": "assets/images/all_ben.jpg",
     "tags": [
       "Talenti"
     ]

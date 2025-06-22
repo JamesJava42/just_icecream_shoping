@@ -5,6 +5,8 @@ import type { Product } from '../models/Product';
 type CartItem = Product & { quantity: number };
 
 type CartState = {
+  increaseQuantity: any;
+  decreaseQuantity: any;
   cart: CartItem[];
   addToCart: (product: Product) => void;
   removeFromCart: (productId: number) => void;

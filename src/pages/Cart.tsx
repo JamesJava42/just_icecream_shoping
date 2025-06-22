@@ -28,7 +28,7 @@ const Cart = () => {
       (position) => {
         const { latitude, longitude } = position.coords;
         // Example dummy logic to determine nearest Clark Liquor
-        const nearest = latitude > 33.8 ? 'Clark Liquor - Cerritos' : 'Clark Liquor - Long Beach';
+        const nearest = latitude > 33.8 ? '13770 Clark Ave, Bellflower, CA 90706' : '13770 Clark Ave, Bellflower, CA 90706';
         setLocation(`${nearest} (Lat: ${latitude.toFixed(2)}, Lon: ${longitude.toFixed(2)})`);
       },
       () => {

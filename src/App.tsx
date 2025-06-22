@@ -22,11 +22,13 @@ function App() {
           <h1>🍨 Just Ice Creams</h1>
         </div>
         <nav className="nav-links">
-          <Link to="/">Home</Link>
-          <Link to="/cart">
-            Cart {cartCount > 0 && <span className="cart-count">({cartCount})</span>}
-          </Link>
-        </nav>
+  <Link to="/">Home</Link>
+  <Link to="/cart">
+    Cart
+    {cartCount > 0 && <span className="cart-badge">{cartCount}</span>}
+  </Link>
+</nav>
+
       </header>
 
       <main className="main-content">

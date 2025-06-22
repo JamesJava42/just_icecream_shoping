@@ -1,0 +1,46 @@
+.home-page {
+  padding: 2rem;
+  background: #fffdf7;
+  min-height: 100vh;
+
+  h2 {
+    font-size: 2.2rem;
+    color: #d35400;
+    text-align: center;
+    margin-bottom: 2rem;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+  }
+
+  .product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 2rem;
+    padding: 0 1rem;
+  }
+
+  .loading,
+  .error,
+  .no-products {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #777;
+    margin-top: 3rem;
+  }
+
+  // Optional: animation entry fade
+  .product-card {
+    animation: fadeIn 0.5s ease-in-out;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}

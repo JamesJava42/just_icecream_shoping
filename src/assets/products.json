@@ -1,0 +1,93 @@
+
+[
+  {
+    "id": "1",
+    "title": "Half Baked",
+    "description": "Chocolate & Vanilla Ice Creams with Gobs of Chocolate Chip Cookie Dough & Fudge Brownies.",
+    "price": 5.99,
+    "image": "/assets/images/Ben_Half_Baked.avif",
+    "stock": 20,
+    "category": "ice-cream"
+  },
+  {
+    "id": "2",
+    "title": "Netflix & Chill'd",
+    "description": "Peanut Butter Ice Cream with Sweet & Salty Pretzel Swirls & Fudge Brownies.",
+    "price": 5.99,
+    "image": "/assets/images/Ben_Netflix_Chill.jpg",
+    "stock": 15,
+    "category": "ice-cream"
+  },
+  {
+    "id": "3",
+    "title": "Chewy Gooey Cookie",
+    "description": "Milk Chocolate & Coconut Ice Creams with Fudge Flakes, Shortbread Cookies & Caramel Swirls.",
+    "price": 5.49,
+    "image": "/assets/images/Ben_Chewy_.avif",
+    "stock": 18,
+    "category": "ice-cream"
+  },
+  {
+    "id": "4",
+    "title": "Peanut Butter Cup",
+    "description": "Peanut Butter Ice Cream with Peanut Butter Cups.",
+    "price": 5.29,
+    "image": "/assets/images/Ben_Penutbutter.webp",
+    "stock": 12,
+    "category": "ice-cream"
+  },
+  {
+    "id": "5",
+    "title": "Strawberry Cheesecake",
+    "description": "Strawberry Cheesecake Ice Cream with Strawberries & a Thick Graham Cracker Swirl.",
+    "price": 5.29,
+    "image": "/assets/images/BStraberryChesse.jpg",
+    "stock": 10,
+    "category": "ice-cream"
+  },
+  {
+    "id": "6",
+    "title": "Chocolate Chip Cookie Dough",
+    "description": "Vanilla Ice Cream with Gobs of Chocolate Chip Cookie Dough.",
+    "price": 5.49,
+    "image": "/assets/images/ChoclateChipandDough.avif",
+    "stock": 14,
+    "category": "ice-cream"
+  },
+  {
+    "id": "7",
+    "title": "The Tonight Dough",
+    "description": "Caramel & Chocolate Ice Creams with Chocolate Cookie Swirls & Gobs of Chocolate Chip Cookie Dough & Peanut Butter Cookie Dough.",
+    "price": 6.29,
+    "image": "/assets/images/Tonight.avif",
+    "stock": 8,
+    "category": "ice-cream"
+  },
+  {
+    "id": "8",
+    "title": "Classic Fudge Sundae",
+    "description": "Two scoops of vanilla, hot fudge, whipped cream, and a cherry.",
+    "price": 7.99,
+    "image": "/assets/images/Ben_Half_Baked.avif",
+    "stock": 30,
+    "category": "sundaes"
+  },
+  {
+    "id": "9",
+    "title": "Sugar Cone",
+    "description": "A single scoop of your choice in a crispy sugar cone.",
+    "price": 2.99,
+    "image": "/assets/images/Ben_Half_Baked.avif",
+    "stock": 100,
+    "category": "cones"
+  },
+  {
+    "id": "10",
+    "title": "Waffle Cone",
+    "description": "A single scoop of your choice in a fresh waffle cone.",
+    "price": 3.99,
+    "image": "/assets/images/Ben_Half_Baked.avif",
+    "stock": 100,
+    "category": "cones"
+  }
+]

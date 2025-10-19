@@ -1,0 +1,12 @@
+/* src/pages/ProductDetail.css */
+.detail-layout {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+@media (min-width: 768px) {
+  .detail-layout { flex-direction: row; }
+}
+.detail-image-wrapper { flex: 1; }
+.detail-info { flex: 1; }
+/* ... (rest of styles) ... */

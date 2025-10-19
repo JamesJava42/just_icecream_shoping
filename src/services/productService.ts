@@ -1,18 +1,14 @@
-import type { Product } from '../models/Product';
+// src/services/productService.ts
+import { Product } from "../models/Product";
+import productsData from "../assets/products.json"; // Assumes you created this JSON
 
-export const getProducts = async (): Promise<Product[]> => {
-  try {
-    // ✅ Correct path for Vite/React — must be inside /public
-    const response = await fetch('/data/products.json');
+export const fetchProducts = async (): Promise<Product[]> => {
+  // simulate delay
+  await new Promise(r => setTimeout(r, 200));
+  return productsData as Product[];
+};
 
-    if (!response.ok) {
-      throw new Error(`HTTP error! status: ${response.status}`);
-    }
-
-    const data: Product[] = await response.json();
-    return data;
-  } catch (error) {
-    console.error('❌ Failed to fetch products:', error);
-    throw error;
-  }
+export const getProductById = async (id: string): Promise<Product | undefined> => {
+  const list = await fetchProducts();
+  return list.find(p => p.id === id);
 };

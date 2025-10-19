@@ -1,0 +1,15 @@
+/* src/pages/Home.css */
+.product-grid {
+  display: grid;
+  
+  /* This rule now creates exactly 4 columns */
+  grid-template-columns: repeat(4, 1fr);
+  
+  gap: 1.5rem;
+}
+
+.loading-text {
+  font-size: 1.2rem;
+  text-align: center;
+  padding: 2rem;
+}

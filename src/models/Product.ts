@@ -1,8 +1,11 @@
+// src/models/Product.ts
 export interface Product {
-  id: number;
-  name: string;
-  category: string;
+  id: string;
+  title: string;
+  description: string;
   price: number;
-  imageUrl: string;
-  tags: string[];
+  image: string;
+  stock: number;
+  // This field is required
+  category: 'ice-cream' | 'sundaes' | 'cones';
 }

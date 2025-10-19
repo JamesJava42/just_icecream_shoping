@@ -1,51 +1,22 @@
 // src/App.tsx
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import { Home } from './pages/Home';
-import Cart from './pages/Cart';
-import NotFound from './pages/NotFound';
-import { useCartStore } from './store/cartStore';
+import React from "react";
+import { Outlet } from "react-router-dom";
+import Header from "./components/Header";
+import { Toaster } from "react-hot-toast";
+import "./router/AppRouter.css"; // Import layout styles
 
-import { ToastContainer } from 'react-toastify';
-import 'react-toastify/dist/ReactToastify.css';
-
-import './styles/app.scss';
-
-function App() {
-  const cartCount = useCartStore((state) =>
-    state.cart.reduce((sum, item) => sum + item.quantity, 0)
-  );
-
+const App: React.FC = () => {
   return (
-    <Router>
-      <header className="app-header">
-        <div className="logo">
-          <h1>🍨 Just Ice Creams</h1>
-        </div>
-        <nav className="nav-links">
-  <Link to="/">Home</Link>
-  <Link to="/cart">
-    Cart
-    {cartCount > 0 && <span className="cart-badge">{cartCount}</span>}
-  </Link>
-</nav>
-
-      </header>
-
-      <main className="main-content">
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/cart" element={<Cart />} />
-          <Route path="*" element={<NotFound />} />
-        </Routes>
-      </main>
-
-      <footer className="app-footer">
-        <p>© {new Date().getFullYear()} Just Ice Creams 🍦</p>
-      </footer>
-
-      <ToastContainer position="bottom-right" autoClose={2000} theme="colored" />
-    </Router>
+    <>
+      <Toaster />
+      <div className="app-layout">
+        <Header />
+        <main className="main-content">
+          <Outlet /> {/* Child routes will render here */}
+        </main>
+      </div>
+    </>
   );
-}
+};
 
 export default App;

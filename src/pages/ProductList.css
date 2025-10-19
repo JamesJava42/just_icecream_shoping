@@ -1,0 +1,31 @@
+/* src/pages/ProductList.css */
+
+.product-list-container {
+  max-width: var(--container-width);
+  margin: 2rem auto;
+  padding: 0 1.5rem;
+}
+
+.product-list-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 2rem;
+  /* Capitalizes the first letter, e.g., "ice-cream" -> "Ice-cream" */
+  text-transform: capitalize; 
+}
+
+.product-list-grid {
+  display: grid;
+  /* Responsive grid: min 250px wide columns, max 1fr */
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 2rem;
+}
+
+/* You can re-use these loader/error styles from other pages */
+.loader,
+.error {
+  text-align: center;
+  font-size: 1.5rem;
+  padding: 3rem;
+  color: #555;
+}
